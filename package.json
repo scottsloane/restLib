@@ -1,14 +1,14 @@
 {
-  "name": "restLib",
-  "version": "1.0.0",
-  "description": "",
+  "name": "srai",
+  "version": "0.0.1-dev",
+  "description": "Simplistic RESTful API framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ."
+    "start": "node test"
   },
   "keywords": [],
-  "author": "",
+  "author": "Scott Sloane (scott@scottsloane.com)",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
